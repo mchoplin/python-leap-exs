@@ -1,0 +1,3 @@
+class InvalidSku(Exception):
+    pass
+
